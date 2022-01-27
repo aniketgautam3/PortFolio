@@ -104,7 +104,7 @@ function sendEmail(){
     Email.send({
         Host : "smtp.gmail.com",
         Username : "portfolioaniketgautam@gmail.com",
-        Password : "Intelatom",
+        Password : "#########",
         To : 'aniket.gautam300@gmail.com',
         From : document.getElementById("email").value,
         Subject : "Message From Portfolio Website.",
